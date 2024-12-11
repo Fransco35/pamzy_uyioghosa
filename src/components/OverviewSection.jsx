@@ -34,6 +34,37 @@ function OverviewSection() {
         </li>
       </ul>
       {/* Add any additional elements or images */}
+      <br />
+      <p className="mb-4">
+        Emerging forms of ringworm frequently result in more severe illnesses
+        than typical ringworm. Severe ringworm develops a big red (brown or gray
+        on darker skin), scaly, itchy rash that spreads across the body. It may
+        also produce pus-filled lumps and hair loss in the scalp or beard area.
+      </p>
+      <br />
+      <h3 className="text-xl font-semibold mb-2">What to look out for ?</h3>
+      <p className="mb-6">
+        A rash that is scaly, dry, irritated, or inflamed may appear. Ringworm
+        is however most common in the scalp (tinea capitis) and groin (jock
+        itch). An irregular red, scaly area on white skin or an irregular brown
+        or gray area on dark skin are the hallmarks of ringworm. You may also
+        get itchy bumps. As time passes, the bump changes into a circular or
+        ring-shaped patch. It may form different rings or patches as it spreads.
+        Typically, the patch&apos;s interior has a white or scaly hue. The
+        facade may be slightly elevated and uneven. The lumps may develop into
+        pimples.
+      </p>
+      <br />
+      <h3 className="text-xl font-semibold mb-2">Who is at Risk?</h3>
+      <p className="mb-6">
+        It is estimated that 20% to 25% of people will experience ringworm at
+        some point in their lives. Even though children are most likely to
+        experience this, anyone of any age might be infected. It is also
+        particularly common among children who have not reached puberty, (tinea
+        capitis), especially those of African and Caribbean descent. Also, if
+        you have a weakened immune system or an autoimmune disease, sweat
+        excessively. Coming in contact with an animal that has a ringworm.
+      </p>
     </section>
   );
 }

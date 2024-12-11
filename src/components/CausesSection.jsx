@@ -11,16 +11,23 @@ function CausesSection() {
         <h3 className="text-xl font-semibold mb-2">Symptoms</h3>
         <p className="mb-6">
           The main symptom of ringworm is a rash. Depending on your skin tone,
-          it could appear rosy or dark. Symptoms may appear between 4 and 14
-          days after direct contact with an infected person, animal, or object.
+          it could appear rosy or dark. A rash that is scaly, dry, irritated, or
+          inflamed may appear. Symptoms may appear between 4 and 14 days after
+          direct contact with an infected person, animal, or object. Ringworm
+          can be found in any part of the body, however it is most common in the
+          scalp (especially in children) and groin.
         </p>
 
         {/* Causes */}
         <h3 className="text-xl font-semibold mb-2">Causes</h3>
         <p className="mb-6">
-          Fungi spread between people through direct skin contact and shared
-          items like towels, shampoos, and clothing. Our pets can also carry
-          ringworm.
+          Fungal gets spread between people through direct skin contact as well
+          as through sharing items like towels, shampoos, and clothing.
+          Athletes&apos; feet typically spread out in gym and pool changing
+          areas. Our favourite animals, such as dogs and cats, can exhibit
+          ringworm and you can be infected by caressing them. Point to note.
+          This fungus lives on your skin, hair and even nails. Although, when
+          their surroundings get hot and humid, the fungus starts to grow.
         </p>
 
         {/* Embedded YouTube Video */}

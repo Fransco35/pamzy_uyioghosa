@@ -13,16 +13,32 @@ function DiagnosticsSection() {
 
         <ul className="list-disc pl-5 space-y-3">
           <li>
-            <strong>Trichoscopy:</strong> A non-invasive technique using a
-            microscope for hair and scalp diseases.
+            <strong>Trichoscopy:</strong> Let&apos;s break it down; This is a
+            non-invasive technique that uses a microscope to magnify hair
+            strands, enabling a healthcare provider to analyze hair and scalp
+            diseases. Current research suggests that trichoscopy can be used as
+            a quick diagnostic method for tinea capitis, avoiding the need for
+            the time-consuming traditional method of fungal culture.
           </li>
           <li>
-            <strong>Conventional PCR:</strong> A method for amplifying fungal
-            DNA to identify the specific fungus type.
+            <strong>
+              Molecular Diagnostics techniques like conventional PCR:
+            </strong>{" "}
+            Conventional PCR is like a photocopying machine for tiny bits of
+            DNA. It makes millions of copies of a specific DNA part so
+            scientists can study it easily. In the case of ringworm, PCR helps
+            doctors figure out if fungi are causing the problem and even
+            identify the exact type of fungus.
           </li>
           <li>
-            <strong>CRISPR/Cas12 lateral flow test:</strong> A quick, novel
-            method to identify fungal infections.
+            <strong>Modified rapid culture diseases</strong>
+          </li>
+          <li>
+            <strong>The CRISPR/Cas12 lateral flow test:</strong>{" "}
+            (CRISPR/Cas12-LFA) is a novel, easy, and quick method that enables
+            the identification of fungi that cause skin illnesses like ringworm
+            or athlete&apos;s foot. Think of this like something similar to a
+            pregnancy test that is intended to identify fungal infections.
           </li>
         </ul>
       </div>

@@ -9,48 +9,72 @@ function FAQSection() {
           {/* Question 1 */}
           <div className="bg-white p-6 rounded-lg shadow">
             <h3 className="text-lg font-semibold text-gray-800">
-              How contagious is ringworm?
+              HOW CONTAGIOUS IS RINGWORM?
             </h3>
-            <p className="mt-2 text-gray-600">
-              Ringworm is very contagious. It can spread through direct contact
-              with an infected person, animal, or object.
-            </p>
+            <p className="mt-2 text-gray-600">Ringworm is very contagious.</p>
           </div>
 
           {/* Question 2 */}
           <div className="bg-white p-6 rounded-lg shadow">
             <h3 className="text-lg font-semibold text-gray-800">
-              How does ringworm affect pregnancy?
+              HOW DOES RINGWORM AFFECT PREGNANCY?
             </h3>
             <p className="mt-2 text-gray-600">
-              Ringworm won’t have an effect on your pregnancy, but always check
-              with your GP before using any medication.
+              Ringworm won’t have an effect on your pregnancy, but still, always
+              check with your GP before using any medication.
             </p>
           </div>
 
           {/* Question 3 */}
           <div className="bg-white p-6 rounded-lg shadow">
             <h3 className="text-lg font-semibold text-gray-800">
-              Can I get ringworm from my pet?
+              CAN I GET RINGWORM FROM MY PET?
             </h3>
             <p className="mt-2 text-gray-600">
-              Yes, you can. Always wash your hands after petting your pets or
-              the pets of others.
+              Yes you can. Always wash your hands after petting your pets or the
+              pets of others.
             </p>
           </div>
 
           {/* Question 4 */}
           <div className="bg-white p-6 rounded-lg shadow">
             <h3 className="text-lg font-semibold text-gray-800">
-              How is ringworm different from eczema?
+              IS RINGWORM CAUSED BY A WORM?
+            </h3>
+            <p className="mt-2 text-gray-600">No, it is caused by a fungus.</p>
+          </div>
+
+          {/* Question 5 */}
+          <div className="bg-white p-6 rounded-lg shadow">
+            <h3 className="text-lg font-semibold text-gray-800">
+              HOW IS RINGWORM SPREAD?
             </h3>
             <p className="mt-2 text-gray-600">
-              Unlike ringworm, eczema is not contagious. Both have similar
-              symptoms like red, itchy skin, but ringworm forms a ring-like
-              shape. Consult your GP for a proper diagnosis.
+              By direct contact with an infected person, animal or object.{" "}
+            </p>
+          </div>
+
+          {/* Question 6 */}
+          <div className="bg-white p-6 rounded-lg shadow">
+            <h3 className="text-lg font-semibold text-gray-800">
+              HOW IS RINGWORM DIFFERENT FROM ECZEMA?
+            </h3>
+            <p className="mt-2 text-gray-600">
+              Unlike ringworm, Eczema is not contagious. But both symptoms are
+              similar with red skin and itching. Ringworm also forms a ring-like
+              shape on your skin. Always contact your GP for a proper and
+              diagnosis.
             </p>
           </div>
         </div>
+        <br />
+        <h3 className="text-xl font-semibold mb-2">NB.</h3>
+        <p className="mb-6">
+          Always ask your GP about how to prevent ringworm from returning or
+          even spreading to other parts of body and others. Treatment isn’t
+          always immediate but it is necessary to follow the outlined treatment
+          recommendations to healed.
+        </p>
       </div>
     </section>
   );

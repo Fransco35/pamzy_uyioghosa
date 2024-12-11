@@ -7,7 +7,7 @@ function HeroSection() {
     <section className="h-screen bg-lab-background bg-no-repeat bg-center bg-cover">
       <div className="w-full h-screen px-6 md:px-12 flex flex-col justify-center items-start  bg-blackOverlay">
         <h1 className="text-4xl text-zinc-50 md:text-5xl font-bold mb-2 underline">
-          The Ringworm
+          Ringworm
         </h1>
         <h2 className="text-2xl text-zinc-50 font-semibold mb-2">(Tinea)</h2>
         <h2 className="text-2xl text-zinc-50 font-semibold mb-6">
