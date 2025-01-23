@@ -1,7 +1,20 @@
+import ImageOne from "../assets/image1.jpeg";
+
 function OverviewSection() {
   return (
     <section id="overview" className="py-10 px-6 md:px-12 bg-gray-50">
       <h2 className="text-3xl font-bold mb-6">Overview</h2>
+      <figure className="mb-4 inline-block max-w-sm">
+        <img
+          src={ImageOne}
+          alt="Ringworm example 1"
+          className="mb-4 h-auto max-w-full rounded-lg align-middle leading-none shadow-lg"
+        />
+        <figcaption className="text-sm text-neutral-600 dark:text-neutral-400">
+          Ringworm is a circular shaped skin rash caused by fungal infection
+        </figcaption>
+      </figure>
+
       <ul className="list-disc ml-6 mb-4">
         <li className="font-semibold">Ringworm basics</li>
         <li className="font-semibold">Types of ringworm:</li>
