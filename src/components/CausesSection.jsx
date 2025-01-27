@@ -29,16 +29,6 @@ function CausesSection() {
           This fungus lives on your skin, hair and even nails. Although, when
           their surroundings get hot and humid, the fungus starts to grow.
         </p>
-
-        {/* Embedded YouTube Video */}
-        <div className="aspect-w-16 aspect-h-15">
-          <iframe
-            src="https://youtube.com/k_bNsxMcuog?si=iLlHi70F1D_P_gPc"
-            title="Ringworm Causes"
-            allowFullScreen
-            className="w-full h-full"
-          ></iframe>
-        </div>
       </div>
     </section>
   );
